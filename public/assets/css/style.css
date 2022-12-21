@@ -1,0 +1,18 @@
+*{
+    font-family: 'Baloo Paaji 2', cursive;
+}
+
+.radius-10{
+    border-radius: 10px !important;
+}
+.radius-20{
+    border-radius: 20px !important;
+}
+.blur {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+}
+@media only screen and (max-width: 600px) {
+    .contact-img{
+        display:none;
+    }
+}
